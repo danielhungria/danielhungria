@@ -1,10 +1,9 @@
 # 💫 Sobre mim:
 
-Olá, me chamo Daniel, sempre fui apaixonado por tecnologia e amo desafios. Curso engenharia de controle e automação (pretendo ir para sistemas de informação) na UFBA. Comecei minha jornada em 2017, enfretei alguns desafios, muito aprendizado e conheci pessoas incríveis. 
-Tive meu primeiro contato com android em um projeto de introdução (que durou 1 semestre), onde desenvolvi um app em java que tinha como o objetivo controlar uma "casa inteligente".
-Durante um tempo como aluno pude participar de uma empresa júnior da faculdade (onde fiquei 1 ano) e aprender alguns conceitos de desenvolvimento front-end, além de trabalhar muito em equipe, participar de reuniões diárias e documentar os resultados com o Trello, utilizando o método Scrum.
+Olá, me chamo Daniel, sempre fui apaixonado por tecnologia e amo desafios, curso engenharia de controle e automação (pretendo ir para sistemas de informação) na UFBA.
+Comecei minha jornada em 2017, enfrentei alguns desafios, aprendi muito e conheci pessoas incríveis. Tive meu primeiro contato com android em um projeto de introdução (que durou 1 semestre), onde desenvolvi um app em java que tinha como o objetivo controlar uma "casa inteligente". Durante um tempo como aluno pude participar de uma empresa júnior da faculdade (onde fiquei 1 ano) e aprender alguns conceitos de desenvolvimento front-end, além de trabalhar muito em equipe, participar de reuniões diárias e documentar os resultados no Trello, utilizando o método Scrum. 
 
-**Atualmente:** Estudo desenvolvimento android com kotlin.
+**Atualmente:** Estudo desenvolvimento android com kotlin há 7 meses.
 
 **Estudando:** Implementando novas features e corrigindo bugs dos meus dois apps que estão publicados na Play Store.
 
