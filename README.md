@@ -31,4 +31,5 @@ Durante um tempo como aluno pude participar de uma empresa júnior da faculdade 
 ![](https://github-readme-stats.vercel.app/api?username=danielhungria&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhungria&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=danielhungria&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=danielhungria&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=danielhungria&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
