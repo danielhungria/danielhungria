@@ -4,7 +4,7 @@ Olá, me chamo Daniel, sempre fui um amante da tecnologia, aprecio a forma que e
 
 **Atualmente:** Estou me aprofundando em desenvolvimento android com Kotlin.
 
-**Estudando:** Implementando novas features e corrigindo bugs dos meus dois apps que estão publicados na Play Store.
+**Estudando:** Desenvolvendo novo app de wallpaper.
 
 **Ferramentas que utilizo:** Kotlin - Android - Arquitetura MVVM - Room Database - API's Rest - Retrofit - Firebase - Coroutines - Testes unitários - Versionamento de código com Git - Google Play Services - Scrum
 
