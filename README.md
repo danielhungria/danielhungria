@@ -2,7 +2,7 @@
 
 Olá, me chamo Daniel, sempre fui um amante da tecnologia, aprecio a forma que essa área domina o mundo e amo fazer parte disso. Tive meu primeiro contato com android em um projeto da faculdade (que durou 1 semestre), onde desenvolvi um app em java que tinha como o objetivo controlar uma "casa inteligente". 
 
-**Atualmente:** Estou me aprofundando em desenvolvimento android com Kotlin.
+**Atualmente:** Estou desenvolvendo um projeto pessoal em flutter.
 
 **Estudando:** Flutter.
 
