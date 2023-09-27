@@ -6,7 +6,7 @@ Olá, me chamo Daniel, sempre fui um amante da tecnologia, aprecio a forma que e
 
 **Estudando:** Flutter.
 
-**Ferramentas que utilizo:** Kotlin - Android - Arquitetura MVVM - Room Database - API's Rest - Retrofit - Firebase - Coroutines - Testes unitários - Versionamento de código com Git - Google Play Services - Scrum
+**Ferramentas que utilizo:** Kotlin - Android - Flutter - BLoC - Providers - Arquitetura MVVM - Room Database - API's Rest - Retrofit - Firebase - Coroutines - Testes unitários - Versionamento de código com Git - Google Play Services - Scrum - Agile
 
 # 📧 Contato:
 
@@ -18,7 +18,7 @@ Olá, me chamo Daniel, sempre fui um amante da tecnologia, aprecio a forma que e
 <a href="https://play.google.com/store/apps/developer?id=DHungriaDeveloper"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a/>
 
 ## 🌐 Redes Sociais:
-<a href="https://www.instagram.com/danhungria1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
+<!-- <a href="https://www.instagram.com/danhungria1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/> -->
 <a href="https://twitter.com/danhungria1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
 
 # 💻 Tech Stack:
