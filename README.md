@@ -2,9 +2,9 @@
 
 Olá, me chamo Daniel, sempre fui um amante da tecnologia, aprecio a forma que essa área domina o mundo e amo fazer parte disso. Tive meu primeiro contato com android em um projeto da faculdade (que durou 1 semestre), onde desenvolvi um app em java que tinha como o objetivo controlar uma "casa inteligente". 
 
-**Atualmente:** Estou desenvolvendo um projeto pessoal em flutter.
+**Atualmente:** Atuando como Mobile Developer na WS Work.
 
-**Estudando:** Flutter.
+**Estudando:** Flutter e Android Compose.
 
 **Ferramentas que utilizo:** Kotlin - Android - Flutter - BLoC - Providers - Arquitetura MVVM - Room Database - API's Rest - Retrofit - Firebase - Coroutines - Testes unitários - Versionamento de código com Git - Google Play Services - Scrum - Agile
 
