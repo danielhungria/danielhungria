@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-Olá, me chamo Daniel, sempre fui um amante da tecnologia, aprecio a forma que essa área domina o mundo e amo fazer parte disso. Tive meu primeiro contato com android em um projeto da faculdade (que durou 1 semestre), onde desenvolvi um app em java que tinha como o objetivo controlar uma "casa inteligente". 
+Olá, me chamo Daniel, sou um entusiasta da tecnologia e apaixonado por desenvolvimento mobile. Tenho experiência em projetos front-end e back-end, mas meu coração está realmente na criação de aplicativos para Android e iOS, usando Flutter, Koltin e Swift.
 
 **Atualmente:** Atuando como Mobile Developer na WS Work.
 
