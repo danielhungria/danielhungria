@@ -4,9 +4,9 @@ Olá, me chamo Daniel, sou um entusiasta da tecnologia e apaixonado por desenvol
 
 **Atualmente:** Atuando como Mobile Developer na WS Work.
 
-**Estudando:** Flutter e Android Compose.
+**Estudando:** Flutter, Android Compose e Swift nas horas vagas.
 
-**Ferramentas que utilizo:** Kotlin - Android - Flutter - BLoC - Providers - Arquitetura MVVM - Room Database - API's Rest - Retrofit - Firebase - Coroutines - Testes unitários - Versionamento de código com Git - Google Play Services - Scrum - Agile
+**Ferramentas que utilizo:** Kotlin - Android - Flutter - BLoC - Providers - Arquitetura MVVM - Room Database - API's Rest - Retrofit - Firebase - Coroutines - XCode - Testes unitários - Versionamento de código com Git - Google Play Services - Scrum - Agile
 
 # 📧 Contato:
 
