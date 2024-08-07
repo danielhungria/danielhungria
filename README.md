@@ -17,10 +17,6 @@ Olá, me chamo Daniel, sou um entusiasta da tecnologia e apaixonado por desenvol
 # 📱 Apps publicados:
 <a href="https://play.google.com/store/apps/developer?id=DHungriaDeveloper"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a/>
 
-## 🌐 Redes Sociais:
-<!-- <a href="https://www.instagram.com/danhungria1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/> -->
-<a href="https://twitter.com/danhungria1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
-
 # 💻 Tech Stack:
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
